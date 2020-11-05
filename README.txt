@@ -1,2 +1,2 @@
 Hello Git and GitHub
-Ako sa mas, Nika?
+Ako sa mas?
